@@ -7,7 +7,6 @@ This monorepo contains a full-stack, production-ready web application for predic
 - `frontend/` – React SPA for doctors to enter discharge data and view risk dashboard.
 - `backend/` – Node.js + Express API, MySQL integration, OpenAI + Chroma/ML orchestration.
 - `ml-service/` – Python FastAPI microservice for ML prediction and ChromaDB similarity search.
-- `docker/` – Dockerfiles for each service (also colocated in service folders) and shared resources.
 
 ### High-Level Flow
 
